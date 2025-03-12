@@ -1,0 +1,20 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 30px;
+  width: 100%;
+  background-color: #e0ebeb;
+  text-align: center;
+  font-weight: thin;
+}
+
+.bg-color {
+  height: 100vh;
+  background: linear-gradient(cyan, blue);
+}
+
+.title {
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+}
